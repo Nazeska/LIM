@@ -1,0 +1,79 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  }
+
+ /* CONTAINER */
+.container {
+  margin-top: 20px; 
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 70px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 15px; 
+  padding: 70px;
+   
+  width: 60%;
+  height: auto;
+}
+
+/* LOGO */
+#logo { 
+      display: block;
+      padding: 5px;
+      margin-top: 50;
+      margin-left: auto;
+      margin-right: auto;
+      height: auto;
+      width: 20%;
+       
+} 
+
+
+    .AB {
+      display: flex;
+      color: rgb(9, 255, 0);
+      font-family: 'Poppins', sans-serif, Arial;
+      font-size: 20px;
+      justify-content: center;
+      
+    }
+    
+.input{
+  background-color:  rgb(9, 255, 0);
+  padding: 10px;
+  border: 2px;
+  text-align: center; 
+}
+  
+.SCOOTERS {
+  font-family: 'Poppins', sans-serif, Arial;
+  font-size: 15px;
+  color: white;
+  font-weight: lighter;
+} 
+
+.street, .carica {
+  font-size: 11px;
+  margin: 0;
+
+}
+svg { 
+  
+    width: 455px;
+    height: 32px;
+}
+  
+.rectGino {
+  fill:  rgb(255, 179, 102);
+
+} 
+.rectMike {
+  fill:  rgb(51, 204, 51);
+} 
+
+.rectFede {
+  fill: #ff5050;
+} 
